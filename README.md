@@ -32,6 +32,5 @@
     />
   </picture>
   <br />
-
-  <img src="/github-metrics.svg" />
 </div>
+  <img width="100%" src="/github-metrics.svg" />
