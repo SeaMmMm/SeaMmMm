@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3292" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3214" class="">
     <defs>
         <style/>
     </defs>
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    622 MB used
+                                    623 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    719k added, 447k removed
+                                    1.30m added, 748k removed
                                 </div>
                             </section>
                             <section>
@@ -482,12 +482,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 21 commits)</small>
+                    <small class="h-details">(computed from last 22 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 56.8 characters per line of code written</li>
+                        <li>Has approximately 54.7 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1819,6 +1819,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#80dd122</div>
+                                        <div class="message">Create snake.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SMingC/SMingC</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#6e80760</div>
                                         <div class="message">Update README.md</div>
                                     </div>
@@ -1881,26 +1901,6 @@
                                     <div class="commit">
                                         <div class="sha">#8932cc8</div>
                                         <div class="message">Delete new_tts.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SMingC/SMingC</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#308e0a8</div>
-                                        <div class="message">text.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -2582,7 +2582,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 19 Jun 2023, 15:29:57
+                            On 20 Jun 2023, 10:42:16
                         </div>
                     </section>
                 </div>
@@ -2598,11 +2598,11 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">d7d1688f</span>
+                            <span class="code">6e80760a</span>
                             <span class="code">README.md</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--7</span>
+                                <span class="snippet additions">++3</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -2610,7 +2610,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;div align="center"&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /&gt;&lt;br&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;div align="center"&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;img src="https://metrics.lecoq.io/SMingC?template=classic&amp;isocalendar=1&amp;languages=1&amp;lines=1&amp;stars=1&amp;habits=1&amp;followup=1&amp;people=1&amp;discussions=1&amp;achievements=1&amp;gists=1&amp;introduction=1&amp;code=1&amp;activity=1&amp;leetcode=1&amp;fortune=1&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=false&amp;base.hireable=false&amp;base.skip=false&amp;isocalendar=false&amp;isocalendar.duration=half-year&amp;languages=false&amp;languages.limit=8&amp;languages.threshold=0%25&amp;languages.other=false&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.analysis.timeout.repositories=7.5&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;lines=false&amp;lines.sections=base&amp;lines.repositories.limit=4&amp;lines.history.limit=1&amp;stars=false&amp;stars.limit=4&amp;habits=false&amp;habits.from=200&amp;habits.days=14&amp;habits.facts=true&amp;habits.charts=false&amp;habits.charts.type=classic&amp;habits.trim=false&amp;habits.languages.limit=8&amp;habits.languages.threshold=0%25&amp;followup=false&amp;followup.sections=repositories&amp;followup.indepth=false&amp;followup.archived=true&amp;people=false&amp;people.limit=24&amp;people.identicons=false&amp;people.identicons.hide=false&amp;people.size=28&amp;people.types=followers%2C%20following&amp;people.shuffle=false&amp;discussions=false&amp;discussions.categories=true&amp;discussions.categories.limit=0&amp;achievements=false&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=detailed&amp;achievements.limit=0&amp;activity=false&amp;activity.limit=5&amp;activity.load=300&amp;activity.days=14&amp;activity.visibility=all&amp;activity.timestamps=false&amp;activity.filter=all&amp;code=false&amp;code.lines=12&amp;code.load=400&amp;code.days=3&amp;code.visibility=public&amp;gists=false&amp;introduction=false&amp;introduction.title=true&amp;leetcode=false&amp;leetcode.user=MCS&amp;leetcode.sections=solved&amp;leetcode.limit.skills=10&amp;leetcode.limit.recent=2&amp;fortune=false&amp;config.timezone=Asia%2FShanghai" /&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;/div&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;/div&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![Metrics](https://metrics.lecoq.io/SMingC?template=classic&amp;base.indepth=true&amp;base.hireable=true&amp;repositories.forks=true&amp;isocalendar=1&amp;languages=1&amp;lines=1&amp;stars=1&amp;people=1&amp;habits=1&amp;discussions=1&amp;achievements=1&amp;gists=1&amp;introduction=1&amp;code=1&amp;activity=1&amp;followup=1&amp;leetcode=1&amp;fortune=1&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=true&amp;base.hireable=true&amp;base.skip=false&amp;isocalendar=false&amp;isocalendar.duration=half-year&amp;languages=false&amp;languages.limit=8&amp;languages.threshold=0%25&amp;languages.other=false&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.analysis.timeout.repositories=7.5&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;lines=false&amp;lines.sections=base&amp;lines.repositories.limit=4&amp;lines.history.limit=1&amp;stars=false&amp;stars.limit=4&amp;habits=false&amp;habits.from=200&amp;habits.days=14&amp;habits.facts=true&amp;habits.charts=false&amp;habits.charts.type=classic&amp;habits.trim=false&amp;habits.languages.limit=8&amp;habits.languages.threshold=0%25&amp;followup=false&amp;followup.sections=repositories&amp;followup.indepth=false&amp;followup.archived=true&amp;people=false&amp;people.limit=24&amp;people.identicons=false&amp;people.identicons.hide=false&amp;people.size=28&amp;people.types=followers%2C%20following&amp;people.shuffle=false&amp;discussions=false&amp;discussions.categories=true&amp;discussions.categories.limit=0&amp;achievements=false&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=detailed&amp;achievements.limit=0&amp;activity=false&amp;activity.limit=5&amp;activity.load=300&amp;activity.days=14&amp;activity.visibility=all&amp;activity.timestamps=false&amp;activity.filter=all&amp;code=false&amp;code.lines=12&amp;code.load=400&amp;code.days=3&amp;code.visibility=all&amp;gists=false&amp;introduction=false&amp;introduction.title=true&amp;leetcode=false&amp;leetcode.user=MCS&amp;leetcode.sections=solved&amp;leetcode.limit.skills=10&amp;leetcode.limit.recent=2&amp;fortune=false&amp;config.timezone=Asia%2FShanghai&amp;config.twemoji=true&amp;config.octicon=true)</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1,3 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">![Metrics](https://metrics.lecoq.io/SMingC?template=classic&amp;base.indepth=true&amp;base.hireable=true&amp;repositories.forks=true&amp;isocalendar=1&amp;languages=1&amp;lines=1&amp;stars=1&amp;people=1&amp;habits=1&amp;discussions=1&amp;achievements=1&amp;gists=1&amp;introduction=1&amp;code=1&amp;activity=1&amp;followup=1&amp;leetcode=1&amp;fortune=1&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=true&amp;base.hireable=true&amp;base.skip=false&amp;isocalendar=false&amp;isocalendar.duration=half-year&amp;languages=false&amp;languages.limit=8&amp;languages.threshold=0%25&amp;languages.other=false&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.analysis.timeout.repositories=7.5&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;lines=false&amp;lines.sections=base&amp;lines.repositories.limit=4&amp;lines.history.limit=1&amp;stars=false&amp;stars.limit=4&amp;habits=false&amp;habits.from=200&amp;habits.days=14&amp;habits.facts=true&amp;habits.charts=false&amp;habits.charts.type=classic&amp;habits.trim=false&amp;habits.languages.limit=8&amp;habits.languages.threshold=0%25&amp;followup=false&amp;followup.sections=repositories&amp;followup.indepth=false&amp;followup.archived=true&amp;people=false&amp;people.limit=24&amp;people.identicons=false&amp;people.identicons.hide=false&amp;people.size=28&amp;people.types=followers%2C%20following&amp;people.shuffle=false&amp;discussions=false&amp;discussions.categories=true&amp;discussions.categories.limit=0&amp;achievements=false&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=detailed&amp;achievements.limit=0&amp;activity=false&amp;activity.limit=5&amp;activity.load=300&amp;activity.days=14&amp;activity.visibility=all&amp;activity.timestamps=false&amp;activity.filter=all&amp;code=false&amp;code.lines=12&amp;code.load=400&amp;code.days=3&amp;code.visibility=all&amp;gists=false&amp;introduction=false&amp;introduction.title=true&amp;leetcode=false&amp;leetcode.user=MCS&amp;leetcode.sections=solved&amp;leetcode.limit.skills=10&amp;leetcode.limit.recent=2&amp;fortune=false&amp;config.timezone=Asia%2FShanghai&amp;config.twemoji=true&amp;config.octicon=true)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;div align:"center"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;img src="/github-metrics.svg" /&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/div&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2625,14 +2625,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 13:13:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 14:09:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
