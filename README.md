@@ -63,15 +63,15 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SMingC&layout=compact&text_color=f0f6fc&bg_color=111111&hide_border=true&hide_title=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-733.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 121.2 kB Used in GitHub's Storage 
+> 📦 122.1 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -108,23 +108,23 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               8 hrs 17 mins       ████████████████████████░   95.09 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript               7 hrs 22 mins       ████████████████████████░   96.17 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Manual Codeing           7 hrs 58 mins       ███████████████████████░░   91.50 % 
-after-section-10         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-handbook                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Manual Codeing           6 hrs 38 mins       ██████████████████████░░░   86.67 % 
+handbook                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+after-section-10         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 templates                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      8 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,7 +143,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2023 01:42:51 UTC
+ Last Updated on 15/07/2023 01:41:35 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
