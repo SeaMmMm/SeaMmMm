@@ -63,15 +63,15 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SMingC&layout=compact&text_color=f0f6fc&bg_color=111111&hide_border=true&hide_title=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 121.6 kB Used in GitHub's Storage 
+> 📦 122.5 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -108,23 +108,22 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               8 hrs 37 mins       ████████████████████████░   94.60 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript               10 hrs 20 mins      ████████████████████████░   95.53 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react                    6 hrs 40 mins       ██████████████████░░░░░░░   73.23 % 
-apollo-music-share       2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-react-fundamentals-main  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-react_learn              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+react                    9 hrs 18 mins       ██████████████████████░░░   86.01 % 
+apollo-music-share       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+react-fundamentals-main  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Operating System: 
-Mac                      9 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      10 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,7 +142,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2023 01:14:52 UTC
+ Last Updated on 01/08/2023 01:19:55 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
