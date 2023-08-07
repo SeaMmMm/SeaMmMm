@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SMingC&layout=compact&text_color=f0f6fc&bg_color=111111&hide_border=true&hide_title=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 122.0 kB Used in GitHub's Storage 
+> 📦 121.3 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -108,20 +108,20 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               14 hrs 6 mins       █████████████████████████   98.57 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               12 hrs 33 mins      █████████████████████████   98.41 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react                    14 hrs 18 mins      █████████████████████████   100.00 % 
+react                    12 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +140,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2023 01:07:36 UTC
+ Last Updated on 07/08/2023 01:13:27 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
