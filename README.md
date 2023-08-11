@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SMingC&layout=compact&text_color=f0f6fc&bg_color=111111&hide_border=true&hide_title=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 122.4 kB Used in GitHub's Storage 
+> 📦 121.7 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -108,20 +108,20 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               6 hrs 27 mins       █████████████████████████   98.76 % 
+JavaScript               6 hrs 25 mins       █████████████████████████   98.69 % 
 TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react                    6 hrs 32 mins       █████████████████████████   100.00 % 
+react                    6 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +140,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2023 01:14:38 UTC
+ Last Updated on 11/08/2023 01:00:04 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
