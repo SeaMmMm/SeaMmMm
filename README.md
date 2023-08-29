@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SMingC&layout=compact&text_color=f0f6fc&bg_color=111111&hide_border=true&hide_title=true" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 122.6 kB Used in GitHub's Storage 
+> 📦 121.8 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -108,17 +108,19 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   98.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JavaScript               23 mins             ████████████████████████░   95.22 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-next-app                 8 mins              █████████████████████████   100.00 % 
+next-app                 24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +139,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2023 01:02:34 UTC
+ Last Updated on 29/08/2023 01:02:24 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
