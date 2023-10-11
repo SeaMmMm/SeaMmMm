@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 124.0 kB Used in GitHub's Storage 
+> 📦 123.2 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -108,18 +108,16 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               16 mins             ████████████████████████░   95.19 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gatsby-app               16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,7 +136,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2023 01:02:58 UTC
+ Last Updated on 11/10/2023 01:03:00 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
