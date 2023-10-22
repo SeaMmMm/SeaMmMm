@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 123.5 kB Used in GitHub's Storage 
+> 📦 122.7 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -136,7 +136,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2023 01:01:35 UTC
+ Last Updated on 22/10/2023 01:07:55 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
