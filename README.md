@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 124.1 kB Used in GitHub's Storage 
+> 📦 125.0 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -81,6 +81,45 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                79 commits          ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+🌆 Daytime                171 commits         ████████████░░░░░░░░░░░░░   49.57 % 
+🌃 Evening                69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Tuesday                  52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Wednesday                106 commits         ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Thursday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -97,7 +136,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 01:07:17 UTC
+ Last Updated on 08/12/2023 01:07:47 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
