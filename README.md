@@ -71,7 +71,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 113.6 kB Used in GitHub's Storage 
+> 📦 112.9 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2024
  > 
@@ -142,7 +142,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 01:05:48 UTC
+ Last Updated on 07/01/2024 01:12:38 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
