@@ -1,3 +1,4 @@
+
 name: Snake Contrib
 
 on:
@@ -22,7 +23,6 @@ jobs:
           outputs: |
             dist/profile-snake-contrib/github-contribution-grid-snake.svg
             dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
