@@ -29,21 +29,6 @@
 </td></tr>
 
 <tr>
-<td>
-  
-### 🏢 Intern Experience
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-- [深圳奥哲科技有限公司](https://www.authine.com) &emsp; 📌 2022-6-5 —— 2022-9-10
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：前端低代码工具开发
-
- </td>
-</tr>
-
-<tr><td>
 
 ### 🤾‍♂️ Recent Learning
 
