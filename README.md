@@ -109,12 +109,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SMingC/SMingC/main/assets/bar_graph.png)
-
-Last Updated on 04/02/2024 01:07:23 UTC
-
 <!--END_SECTION:waka-->
 
 </td></tr>
