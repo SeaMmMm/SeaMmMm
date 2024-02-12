@@ -4,26 +4,10 @@
 
 <table>
 <tr><td>
-  
-### 🤺 About Me
-
-<p>&emsp;&emsp;Hello here is SMingC</p>
-<p>&emsp;&emsp;Love programming, reading, traveling.</p>
-<p>&emsp;&emsp;Passionate about computer science and IT and Internet careers, and inspired to become an excellent independent developer.</p>
-<p>&emsp;&emsp;We are making the world a better place, building a perfect system through code reuse and extension.</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <img
   alt="github-snake"
   src="https://cdn.jsdelivr.net/gh/SMingC/SMingC/profile-snake-contrib/github-contribution-grid-snake.svg"
 />
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Recent Learning
-
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648eb21e779070ae62492d7a?variant=dark" alt="roadmap.sh"/></a>
 
 </td></tr>
 
