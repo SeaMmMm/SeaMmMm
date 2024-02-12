@@ -1,27 +1,13 @@
 <div align="center">
 
 # 🙋 Hello
-
 <table>
-<tr><td>
-<img
-  alt="github-snake"
-  src="https://cdn.jsdelivr.net/gh/SMingC/SMingC/profile-snake-contrib/github-contribution-grid-snake.svg"
-/>
-
-</td></tr>
 
 <tr><td>
 
 ### 📊 WakaTime
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SMingC&layout=compact&text_color=f0f6fc&bg_color=111111&hide_border=true&hide_title=true" />
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2029%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 202.2 kB Used in GitHub's Storage 
@@ -89,20 +75,12 @@ Vue                      4 repos             ████████░░░�
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SeaMmMm/SeaMmMm/main/assets/bar_graph.png)
-
-
- Last Updated on 12/02/2024 01:03:18 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
-</table>
 
+<tr>
+  <td>
 <!--  skill badge 技能徽章 -->
 
 💪 正在学习
@@ -142,7 +120,26 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Power point](https://img.shields.io/badge/PowerPoint-%23fa8c35?logo=Microsoft%20PowerPoint)
 ![Hyper](https://img.shields.io/badge/Hyper-black?logo=Hyper)
 ![Discord](https://img.shields.io/badge/Discord-%23003472?logo=Discord)
-
-<!-- programming tool icon 编程工具图标 -->
+  </td>
+</tr>
+<tr>
+  <td>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeaMmMm&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="commit">
+  </td>
+</tr>
+<td>
+  <!-- programming tool icon 编程工具图标 -->
 
 <img src="https://skillicons.dev/icons?i=sass,ts,jest,express,nuxt,firebase,gatsby,js,vue,react,redux,docker,discord,mongodb,stackoverflow,idea,git,vscode,github,gitlab,figma,vite,svg,next,gulp,webpack,bootstrap,jquery,swift,prisma" /><br>
+    
+  </td>
+  <tr>
+  <td>
+    <img
+  alt="github-snake"
+  src="https://cdn.jsdelivr.net/gh/SMingC/SMingC/profile-snake-contrib/github-contribution-grid-snake.svg"
+/>
+  </td>
+</tr>
+</table>
+
