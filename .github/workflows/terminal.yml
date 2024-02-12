@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.README }}
 
           # Options
-          user: SeaMnMn
+          user: SeaMmMm
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
