@@ -21,4 +21,3 @@ jobs:
           SHOW_SHORT_INFO : false
           SHOW_PROJECTS : false
           SHOW_TOTAL_CODE_TIME : false
-          SHOW_TITLE : true
