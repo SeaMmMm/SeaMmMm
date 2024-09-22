@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **js、vue、react**
 
-- 📫 How to reach me **347552878@qq.com**
-
 <div align="center">
 
 <table>
