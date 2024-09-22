@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **CFE、FP、Source code**
 
-- 💬 Ask me about **js、vue、react**
-
 <div align="center">
 
 <table>
