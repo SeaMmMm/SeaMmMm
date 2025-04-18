@@ -59,20 +59,3 @@ Mac                      21 hrs 49 mins      ███████████�
 
  Last Updated on 18/04/2025 01:38:26 UTC
 <!--END_SECTION:waka-->
-
-</td></tr>
-
-<tr><td>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seammmm" alt="seammmm" /></a> </p>
-</td></tr>
-</table>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/lll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lll" height="30" width="40" /></a>
-<a href="https://medium.com/@mcseaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mcseaming" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mcs" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<img align="left" src="https://skillicons.dev/icons?i=sass,ts,jest,express,nuxt,firebase,gatsby,js,vue,react,redux,docker,discord,mongodb,stackoverflow,idea,git,vscode,github,gitlab,figma,vite,svg,next,gulp,webpack,bootstrap,jquery,swift,prisma" />
