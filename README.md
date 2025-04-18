@@ -1,18 +1,16 @@
-<p align="center">
+
+<div align="center">
+
+<table>
+<tr><td>
+  <p align="center">
   <samp>
     <a href="https://github.com/SeaMmMm/SeaMmMm">me</a> .
     <a href="https://github.com/SeaMmMm/se-element">seui</a> .
     <a href="https://github.com/SeaMmMm/HandBook">handbook</a> .
     <a href="https://github.com/SeaMmMm/codeWars">codewars</a> .
   </samp>
-</p>
-
-<div align="center">
-
-<table>
-
-<tr><td>
-  <img alt="github-snake" src="profile-snake-contrib/github-user-contribution.svg"/>
+    </p>
 </td></tr>
 
 <tr><td>
@@ -63,3 +61,10 @@ Mac                      21 hrs 49 mins      ███████████�
 
  Last Updated on 18/04/2025 01:38:26 UTC
 <!--END_SECTION:waka-->
+</td></tr>
+
+<tr><td>
+  <img alt="github-snake" src="profile-snake-contrib/github-user-contribution.svg"/>
+</td></tr>
+
+</table>
