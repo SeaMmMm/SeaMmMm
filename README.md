@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm seaming</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
-
-- 🌱 I’m currently learning **CFE、FP、Source code**
+<p align="center">
+  <samp>
+    <a href="https://github.com/SeaMmMm/SeaMmMm">me</a> .
+    <a href="https://github.com/SeaMmMm/se-element">seui</a> .
+    <a href="https://github.com/SeaMmMm/HandBook">handbook</a> .
+    <a href="https://github.com/SeaMmMm/codeWars">codewars</a> .
+  </samp>
+</p>
 
 <div align="center">
 
