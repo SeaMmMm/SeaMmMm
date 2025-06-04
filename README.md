@@ -5,10 +5,11 @@
 <tr><td>
   <p align="center">
   <samp>
-    <a href="https://github.com/SeaMmMm/SeaMmMm">me</a> .
+    <a href="https://github.com/seaeam/seaeam">me</a> .
     <a href="https://github.com/SeaMmMm/se-element">seui</a> .
-    <a href="https://github.com/SeaMmMm/HandBook">handbook</a> .
-    <a href="https://github.com/SeaMmMm/codeWars">codewars</a> .
+    <a href="https://github.com/seaeam/project-demo">demo</a> .
+    <a href="https://github.com/506-FETL/one-question-per-day">questions-done</a>
+    
   </samp>
     </p>
 </td></tr>
